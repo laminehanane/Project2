@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitClass03/GitClass03.iml" filepath="$PROJECT_DIR$/GitClass03/GitClass03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gitclass02p2/Gitclass02p2.iml" filepath="$PROJECT_DIR$/Gitclass02p2/Gitclass02p2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasics.iml" filepath="$PROJECT_DIR$/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitclass/gitclass.iml" filepath="$PROJECT_DIR$/gitclass/gitclass.iml" />
+    </modules>
+  </component>
+</project>
